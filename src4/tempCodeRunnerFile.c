@@ -1,0 +1,1 @@
+printf("Index : %d ",root->data);

@@ -1,0 +1,1 @@
+printf("data2= %s",splittedString[3]);
